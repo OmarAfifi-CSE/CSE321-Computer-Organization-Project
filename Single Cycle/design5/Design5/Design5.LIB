@@ -1,0 +1,152 @@
+timestamp=1766001844190
+
+[alu]
+A/behav=A/BEHAV 21|./src/alu.vhd|18|1*0
+B/behav=3*0
+H/behav=0*496
+R=./src/alu.vhd|6
+V=0*3078
+
+[alu_control]
+A/behav=A/BEHAV 21|./src/alu_control.vhd|13|1*2557
+B/behav=3*8873
+H/behav=0*5651
+R=./src/alu_control.vhd|5
+V=0*7126
+
+[control_unit]
+A/behav=A/BEHAV 21|./src/control_unit.vhd|13|1*57995
+H/behav=0*100373
+R=./src/control_unit.vhd|5
+V=0*15647
+
+[control_value]
+A/behav=A/BEHAV 21|./src/control_value.vhd|14|1*8877
+B/behav=3*11482
+H/behav=0*17886
+R=./src/control_value.vhd|6
+V=0*20424
+
+[data_memory]
+A/behav=A/BEHAV 21|./src/data_memory.vhd|18|1*12534
+B/behav=3*15467
+H/behav=0*22702
+R=./src/data_memory.vhd|5
+V=0*27314
+
+[datapath]
+A/behav=A/BEHAV 21|./src/datapath.vhd|14|1*62553
+B/behav=3*31402
+H/behav=0*105905
+R=./src/datapath.vhd|5
+V=0*67466
+
+[instruction_memory]
+A/behav=A/BEHAV 21|./src/instruction_memory.vhd|25|1*39128
+B/behav=3*20429
+H/behav=0*68191
+R=./src/instruction_memory.vhd|9
+V=0*72284
+
+[mux]
+A/behav=A/BEHAV 21|./src/mux.vhd|16|1*45179
+B/behav=3*21598
+H/behav=0*74238
+R=./src/mux.vhd|5
+V=0*75427
+
+[pc]
+A/behav=A/BEHAV 21|./src/pc.vhd|15|1*46861
+B/behav=3*22426
+H/behav=0*77499
+R=./src/pc.vhd|4
+V=0*79964
+
+[pc_adder]
+A/behav=A/BEHAV 21|./src/pc_adder.vhd|15|1*48858
+B/behav=3*23839
+H/behav=0*82007
+R=./src/pc_adder.vhd|5
+V=0*83148
+
+[register_file]
+A/behav=A/BEHAV 21|./src/register_file.vhd|22|1*50470
+B/behav=3*24932
+H/behav=0*85421
+R=./src/register_file.vhd|7
+V=0*90191
+
+[shift_left_2]
+A/behav=A/BEHAV 21|./src/shift_left_2.vhd|13|1*53635
+B/behav=3*28669
+H/behav=0*93481
+R=./src/shift_left_2.vhd|6
+V=0*94418
+
+[sign_extend]
+A/behav=A/BEHAV 21|./src/sign_extend.vhd|19|1*55094
+B/behav=3*29213
+H/behav=0*96012
+R=./src/sign_extend.vhd|8
+V=0*97382
+
+[tb_datapath]
+A/behav=A/BEHAV 21|./src/tb_datapath.vhd|7|1*56874
+B/behav=3*30702
+H/behav=0*99246
+R=./src/tb_datapath.vhd|4
+V=0*100287
+
+[~A]
+./src/alu.vhd~BEHAValu=0*1125*1910
+./src/alu.vhd~alu=0*0*439
+./src/alu_control.vhd~BEHAValu_control=0*5736*6309
+./src/alu_control.vhd~alu_control=0*5274*5578
+./src/control_unit.vhd~BEHAVcontrol_unit=0*104899*105825
+./src/control_unit.vhd~control_unit=0*8677*9040
+./src/control_value.vhd~BEHAVcontrol_value=0*18534*19374
+./src/control_value.vhd~control_value=0*17423*17809
+./src/data_memory.vhd~BEHAVdata_memory=0*25142*26002
+./src/data_memory.vhd~data_memory=0*22127*22629
+./src/datapath.vhd~BEHAVdatapath=0*136947*142882
+./src/datapath.vhd~datapath=0*29752*29969
+./src/instruction_memory.vhd~BEHAVinstruction_memory=0*70589*71306
+./src/instruction_memory.vhd~instruction_memory=0*67716*68104
+./src/mux.vhd~BEHAVmux=0*74323*74470
+./src/mux.vhd~mux=0*73854*74181
+./src/pc.vhd~BEHAVPC=0*78807*79092
+./src/pc.vhd~pc=0*77132*77444
+./src/pc_adder.vhd~BEHAVpc_adder=0*82092*82248
+./src/pc_adder.vhd~pc_adder=0*81592*81940
+./src/register_file.vhd~BEHAVregister_file=0*87731*88524
+./src/register_file.vhd~register_file=0*84698*85344
+./src/shift_left_2.vhd~BEHAVshift_left_2=0*93566*93741
+./src/shift_left_2.vhd~shift_left_2=0*93145*93406
+./src/sign_extend.vhd~BEHAVsign_extend=0*96097*96320
+./src/sign_extend.vhd~sign_extend=0*95488*95939
+./src/tb_datapath.vhd~BEHAVtb_datapath=0*99633*99955
+./src/tb_datapath.vhd~tb_datapath=0*99015*99173
+ModifyID=108
+Version=73
+
+[~MFT]
+0=123|0Design5.mgf|142882|42581
+1=17|1Design5.mgf|62553|24060
+3=14|3Design5.mgf|31402|3069
+
+[~U]
+alu=11|0*1972|0*2293
+alu_control=11|0*6387|0*6599
+control_unit=11|0*14647|0*15035
+control_value=11|0*19456|0*19813
+data_memory=11|0*26080|0*26463
+datapath=11|0*67085|0*67245
+instruction_memory=11|0*71398|0*71667
+mux=11|0*74532|0*74816
+pc=11|0*79152|0*79386
+pc_adder=11|0*82320|0*82552
+register_file=11|0*88606|0*89130
+shift_left_2=11|0*93821|0*94002
+sign_extend=11|0*96398|0*96691
+tb_datapath=11|0*100033|0*100107
+

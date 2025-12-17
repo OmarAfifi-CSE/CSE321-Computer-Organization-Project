@@ -1,0 +1,15 @@
+"d:\Hardware\Active_HDL\My_Designs\design5\Design5\src\alu.vhd" Design5 1 0 1146377052
+"d:\Hardware\Active_HDL\My_Designs\design5\Design5\src\alu_control.vhd" Design5 1 0 0
+"d:\Hardware\Active_HDL\My_Designs\design5\Design5\src\control_unit.vhd" Design5 2 0 0
+"d:\Hardware\Active_HDL\My_Designs\design5\Design5\src\control_value.vhd" Design5 1 0 0
+"d:\Hardware\Active_HDL\My_Designs\design5\Design5\src\data_memory.vhd" Design5 1 0 0
+"d:\Hardware\Active_HDL\My_Designs\design5\Design5\src\datapath.vhd" Design5 2 0 0
+"d:\Hardware\Active_HDL\My_Designs\design5\Design5\src\instruction_memory.vhd" Design5 1 0 0
+"d:\Hardware\Active_HDL\My_Designs\design5\Design5\src\mux.vhd" Design5 1 0 0
+"d:\Hardware\Active_HDL\My_Designs\design5\Design5\src\pc.vhd" Design5 1 0 0
+"d:\Hardware\Active_HDL\My_Designs\design5\Design5\src\pc_adder.vhd" Design5 1 0 0
+"d:\Hardware\Active_HDL\My_Designs\design5\Design5\src\register_file.vhd" Design5 1 0 0
+"d:\Hardware\Active_HDL\My_Designs\design5\Design5\src\shift_left_2.vhd" Design5 1 0 0
+"d:\Hardware\Active_HDL\My_Designs\design5\Design5\src\sign_extend.vhd" Design5 1 0 0
+"d:\Hardware\Active_HDL\My_Designs\design5\Design5\src\tb_datapath.vhd" Design5 1 0 0
+. . 0 0 0

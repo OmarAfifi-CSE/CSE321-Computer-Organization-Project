@@ -1,0 +1,14 @@
+.\src\alu.vhd
+.\src\alu_control.vhd
+.\src\data_memory.vhd
+.\src\instruction_memory.vhd
+.\src\control_value.vhd
+.\src\pc.vhd
+.\src\register_file.vhd
+.\src\pc_adder.vhd
+.\src\sign_extend.vhd
+.\src\shift_left_2.vhd
+.\src\mux.vhd
+.\src\control_unit.vhd
+.\src\datapath.vhd
+.\src\tb_datapath.vhd

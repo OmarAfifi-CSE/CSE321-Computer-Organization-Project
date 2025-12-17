@@ -1,0 +1,15 @@
+i<>.\src\alu.vhd
+i<>.\src\alu_control.vhd
+i<>.\src\blocj.bde
+i<>.\src\control_unit.vhd
+i<>.\src\control_value.vhd
+i<>.\src\data_memory.vhd
+i<>.\src\datapath.vhd
+i<>.\src\instruction_memory.vhd
+i<>.\src\mux.vhd
+i<>.\src\pc.vhd
+i<>.\src\pc_adder.vhd
+i<>.\src\register_file.vhd
+i<>.\src\shift_left_2.vhd
+i<>.\src\sign_extend.vhd
+i<>.\src\tb_datapath.vhd

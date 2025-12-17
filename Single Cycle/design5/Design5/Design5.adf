@@ -1,0 +1,69 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=Design5
+
+[Library]
+Design5=.\Design5.lib
+
+[$LibMap$]
+Design5=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[Files]
+/alu.vhd=-1
+/alu_control.vhd=-1
+/data_memory.vhd=-1
+/instruction_memory.vhd=-1
+/control_value.vhd=-1
+/pc.vhd=-1
+/register_file.vhd=-1
+/pc_adder.vhd=-1
+/sign_extend.vhd=-1
+/shift_left_2.vhd=-1
+/mux.vhd=-1
+/control_unit.vhd=-1
+/datapath.vhd=-1
+/blocj.bde=-1
+/tb_datapath.vhd=-1
+/Waveform.awf=-1
+
+[Files.Data]
+.\src\alu.vhd=VHDL Source Code
+.\src\alu_control.vhd=VHDL Source Code
+.\src\data_memory.vhd=VHDL Source Code
+.\src\instruction_memory.vhd=VHDL Source Code
+.\src\control_value.vhd=VHDL Source Code
+.\src\pc.vhd=VHDL Source Code
+.\src\register_file.vhd=VHDL Source Code
+.\src\pc_adder.vhd=VHDL Source Code
+.\src\sign_extend.vhd=VHDL Source Code
+.\src\shift_left_2.vhd=VHDL Source Code
+.\src\mux.vhd=VHDL Source Code
+.\src\control_unit.vhd=VHDL Source Code
+.\src\datapath.vhd=VHDL Source Code
+.\src\blocj.bde=Block Diagram
+.\src\tb_datapath.vhd=VHDL Source Code
+.\src\Waveform.awf=Waveform File
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=tb_datapath|behav|0 
+ShowHide=ShowTopLevel
+Selected=

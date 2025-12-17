@@ -1,0 +1,32 @@
+elbread.dll ver. 1.0.5.365 Wed Dec 17 22:14:32 2025
+
+
+--------------------------------------------
+Entity              | Architecture | Library
+--------------------------------------------
+tb_datapath         | behav        | Design5
+datapath            | behav        | design5
+control_unit        | behav        | design5
+pc                  | behav        | design5
+instruction_memory  | behav        | design5
+pc_adder            | behav        | design5
+mux                 | behav        | design5
+register_file       | behav        | design5
+sign_extend         | behav        | design5
+shift_left_2        | behav        | design5
+alu                 | behav        | design5
+data_memory         | behav        | design5
+control_value       | behav        | design5
+alu_control         | behav        | design5
+--------------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+std_logic_1164      | ieee
+numeric_std         | ieee
+std_logic_arith     | ieee
+std_logic_unsigned  | ieee
+std_logic_signed    | ieee
+-----------------------------

@@ -1,0 +1,21 @@
+[Files List]
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\STD/src/standard.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\IEEE/src/stdlogic.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\IEEE/src/numstd.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\IEEE/src/arith.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\IEEE/src/unsigned.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\IEEE/src/signed.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design5\Design5/src/alu_control.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design5\Design5/src/control_value.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design5\Design5/src/mux.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design5\Design5/src/data_memory.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design5\Design5/src/alu.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design5\Design5/src/shift_left_2.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design5\Design5/src/sign_extend.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design5\Design5/src/register_file.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design5\Design5/src/pc_adder.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design5\Design5/src/instruction_memory.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design5\Design5/src/pc.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design5\Design5/src/control_unit.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design5\Design5/src/datapath.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design5\Design5/src/tb_datapath.vhd=S
