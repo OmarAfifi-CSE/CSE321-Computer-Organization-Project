@@ -1,0 +1,74 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=Design6
+
+[Library]
+Design6=.\Design6.lib
+
+[$LibMap$]
+Design6=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+
+[IMPLEMENTATION]
+UCF=
+
+[Files]
+/ALU.vhd=-1
+/Adder.vhd=-1
+/ALU_Control.vhd=-1
+/ControlUnit.vhd=-1
+/EX_MEM_Register.vhd=-1
+/DataMemory.vhd=-1
+/Comparator.vhd=-1
+/HazardDetectionUnit.vhd=-1
+/IF_ID_Register.vhd=-1
+/ID_EX_Register.vhd=-1
+/MEM_WB_Register.vhd=-1
+/InstructionMemory.vhd=-1
+/Mux4x1.vhd=-1
+/SignExtender.vhd=-1
+/RegisterFile.vhd=-1
+/PC_Register.vhd=-1
+/Mux2x1.vhd=-1
+/ForwardingUnit.vhd=-1
+/MIPS_TopLevel.vhd=-1
+/MIPS_TB.vhd=-1
+/Waveform Editor 1.awf=-1
+
+[Files.Data]
+.\src\ALU.vhd=VHDL Source Code
+.\src\Adder.vhd=VHDL Source Code
+.\src\ALU_Control.vhd=VHDL Source Code
+.\src\ControlUnit.vhd=VHDL Source Code
+.\src\EX_MEM_Register.vhd=VHDL Source Code
+.\src\DataMemory.vhd=VHDL Source Code
+.\src\Comparator.vhd=VHDL Source Code
+.\src\HazardDetectionUnit.vhd=VHDL Source Code
+.\src\IF_ID_Register.vhd=VHDL Source Code
+.\src\ID_EX_Register.vhd=VHDL Source Code
+.\src\MEM_WB_Register.vhd=VHDL Source Code
+.\src\InstructionMemory.vhd=VHDL Source Code
+.\src\Mux4x1.vhd=VHDL Source Code
+.\src\SignExtender.vhd=VHDL Source Code
+.\src\RegisterFile.vhd=VHDL Source Code
+.\src\PC_Register.vhd=VHDL Source Code
+.\src\Mux2x1.vhd=VHDL Source Code
+.\src\ForwardingUnit.vhd=VHDL Source Code
+.\src\MIPS_TopLevel.vhd=VHDL Source Code
+.\src\MIPS_TB.vhd=VHDL Source Code
+.\src\Waveform Editor 1.awf=Waveform File
+

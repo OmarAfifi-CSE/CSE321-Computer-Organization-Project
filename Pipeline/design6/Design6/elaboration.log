@@ -1,0 +1,36 @@
+elbread.dll ver. 1.0.5.365 Wed Dec 17 22:23:58 2025
+
+
+---------------------------------------------
+Entity               | Architecture | Library
+---------------------------------------------
+mips_tb              | behavioral   | Design6
+mips_toplevel        | behavioral   | design6
+mux2x1               | behavioral   | design6
+pc_register          | behavioral   | design6
+adder                | behavioral   | design6
+instructionmemory    | behavioral   | design6
+if_id_register       | behavioral   | design6
+controlunit          | behavioral   | design6
+registerfile         | behavioral   | design6
+signextender         | behavioral   | design6
+comparator           | behavioral   | design6
+hazarddetectionunit  | behavioral   | design6
+id_ex_register       | behavioral   | design6
+forwardingunit       | behavioral   | design6
+alu_control          | behavioral   | design6
+alu                  | behavioral   | design6
+ex_mem_register      | behavioral   | design6
+datamemory           | behavioral   | design6
+mem_wb_register      | behavioral   | design6
+---------------------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+std_logic_1164      | ieee
+numeric_std         | ieee
+std_logic_arith     | ieee
+std_logic_unsigned  | ieee
+-----------------------------

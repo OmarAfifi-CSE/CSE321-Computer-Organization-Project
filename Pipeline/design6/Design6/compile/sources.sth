@@ -1,0 +1,25 @@
+[Files List]
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\STD/src/standard.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\IEEE/src/stdlogic.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\IEEE/src/numstd.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\IEEE/src/arith.vhd=S
+C:\Program Files (x86)\Aldec\Active-HDL 6.3\VLIB\IEEE/src/unsigned.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design6\Design6/src/MEM_WB_Register.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design6\Design6/src/DataMemory.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design6\Design6/src/EX_MEM_Register.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design6\Design6/src/ALU.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design6\Design6/src/ALU_Control.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design6\Design6/src/Mux2x1.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design6\Design6/src/ForwardingUnit.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design6\Design6/src/ID_EX_Register.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design6\Design6/src/HazardDetectionUnit.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design6\Design6/src/Adder.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design6\Design6/src/Comparator.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design6\Design6/src/SignExtender.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design6\Design6/src/RegisterFile.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design6\Design6/src/ControlUnit.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design6\Design6/src/IF_ID_Register.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design6\Design6/src/InstructionMemory.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design6\Design6/src/PC_Register.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design6\Design6/src/MIPS_TopLevel.vhd=S
+d:\Hardware\Active_HDL\My_Designs\design6\Design6/src/MIPS_TB.vhd=S

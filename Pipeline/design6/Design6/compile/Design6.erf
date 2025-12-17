@@ -1,0 +1,200 @@
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\Adder.vhd" 
+MESSAGE "Compile Entity "Adder"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "Adder"" 
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\ALU.vhd" 
+MESSAGE "Compile Entity "ALU"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "ALU"" 
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\ALU_Control.vhd" 
+MESSAGE "Compile Entity "ALU_Control"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "ALU_Control"" 
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\Comparator.vhd" 
+MESSAGE "Compile Entity "Comparator"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "Comparator"" 
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\ControlUnit.vhd" 
+MESSAGE "Compile Entity "ControlUnit"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "ControlUnit"" 
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\DataMemory.vhd" 
+MESSAGE "Compile Entity "DataMemory"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "DataMemory"" 
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\EX_MEM_Register.vhd" 
+MESSAGE "Compile Entity "EX_MEM_Register"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "EX_MEM_Register"" 
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\ForwardingUnit.vhd" 
+MESSAGE "Compile Entity "ForwardingUnit"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "ForwardingUnit"" 
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\HazardDetectionUnit.vhd" 
+MESSAGE "Compile Entity "HazardDetectionUnit"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "HazardDetectionUnit"" 
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\ID_EX_Register.vhd" 
+MESSAGE "Compile Entity "ID_EX_Register"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "ID_EX_Register"" 
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\IF_ID_Register.vhd" 
+MESSAGE "Compile Entity "IF_ID_Register"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "IF_ID_Register"" 
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\InstructionMemory.vhd" 
+MESSAGE "Compile Entity "InstructionMemory"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "InstructionMemory"" 
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\MEM_WB_Register.vhd" 
+MESSAGE "Compile Entity "MEM_WB_Register"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "MEM_WB_Register"" 
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\MIPS_TB.vhd" 
+MESSAGE "Compile Entity "MIPS_TB"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "MIPS_TB"" 
+WARNING ELAB1_0026: "There is no default binding for component "MIPS_TopLevel".(No entity named "MIPS_TopLevel" was found)." "d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\MIPS_TB.vhd" 23 0
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\MIPS_TopLevel.vhd" 
+BEGINPROGRESS d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\MIPS_TopLevel.vhd
+UPDATEPROGRESS 1
+MESSAGE "Compile Entity "MIPS_TopLevel"" 
+UPDATEPROGRESS 2
+MESSAGE "Compile Architecture "Behavioral" of Entity "MIPS_TopLevel"" 
+UPDATEPROGRESS 5
+UPDATEPROGRESS 6
+UPDATEPROGRESS 8
+UPDATEPROGRESS 9
+UPDATEPROGRESS 10
+UPDATEPROGRESS 12
+UPDATEPROGRESS 14
+UPDATEPROGRESS 15
+UPDATEPROGRESS 16
+UPDATEPROGRESS 19
+UPDATEPROGRESS 23
+UPDATEPROGRESS 27
+UPDATEPROGRESS 29
+UPDATEPROGRESS 30
+UPDATEPROGRESS 34
+UPDATEPROGRESS 36
+UPDATEPROGRESS 40
+UPDATEPROGRESS 41
+UPDATEPROGRESS 42
+UPDATEPROGRESS 43
+UPDATEPROGRESS 44
+UPDATEPROGRESS 45
+UPDATEPROGRESS 46
+UPDATEPROGRESS 47
+UPDATEPROGRESS 48
+UPDATEPROGRESS 49
+UPDATEPROGRESS 50
+UPDATEPROGRESS 51
+UPDATEPROGRESS 52
+UPDATEPROGRESS 53
+UPDATEPROGRESS 54
+UPDATEPROGRESS 55
+UPDATEPROGRESS 56
+UPDATEPROGRESS 57
+UPDATEPROGRESS 60
+UPDATEPROGRESS 61
+UPDATEPROGRESS 62
+UPDATEPROGRESS 64
+UPDATEPROGRESS 66
+UPDATEPROGRESS 68
+UPDATEPROGRESS 69
+UPDATEPROGRESS 70
+UPDATEPROGRESS 73
+UPDATEPROGRESS 74
+UPDATEPROGRESS 75
+UPDATEPROGRESS 80
+UPDATEPROGRESS 83
+UPDATEPROGRESS 85
+UPDATEPROGRESS 86
+UPDATEPROGRESS 88
+UPDATEPROGRESS 89
+UPDATEPROGRESS 91
+UPDATEPROGRESS 95
+UPDATEPROGRESS 96
+UPDATEPROGRESS 99
+UPDATEPROGRESS 100
+WARNING ELAB1_0026: "There is no default binding for component "Mux2x1".(No entity named "Mux2x1" was found)." "d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\MIPS_TopLevel.vhd" 243 0
+WARNING ELAB1_0026: "There is no default binding for component "PC_Register".(No entity named "PC_Register" was found)." "d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\MIPS_TopLevel.vhd" 248 0
+WARNING ELAB1_0026: "There is no default binding for component "RegisterFile".(No entity named "RegisterFile" was found)." "d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\MIPS_TopLevel.vhd" 273 0
+WARNING ELAB1_0026: "There is no default binding for component "SignExtender".(No entity named "SignExtender" was found)." "d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\MIPS_TopLevel.vhd" 282 0
+ENDPROGRESS d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\MIPS_TopLevel.vhd
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\Mux2x1.vhd" 
+MESSAGE "Compile Entity "Mux2x1"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "Mux2x1"" 
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\Mux4x1.vhd" 
+MESSAGE "Compile Entity "Mux4x1"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "Mux4x1"" 
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\PC_Register.vhd" 
+MESSAGE "Compile Entity "PC_Register"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "PC_Register"" 
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\RegisterFile.vhd" 
+MESSAGE "Compile Entity "RegisterFile"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "RegisterFile"" 
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\SignExtender.vhd" 
+MESSAGE "Compile Entity "SignExtender"" 
+MESSAGE "Compile Architecture "Behavioral" of Entity "SignExtender"" 
+MESSAGE "Improper file order detected" 
+MESSAGE "Automatic file reorder and recompilation required." 
+MESSAGE "File reorder and recompilation in progress" 
+MESSAGE "Top-Level unit detected" 
+MESSAGE "Entity  =>   Mux4x1" 
+MESSAGE "Entity  =>   MIPS_TB" 
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\MIPS_TopLevel.vhd" 
+BEGINPROGRESS d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\MIPS_TopLevel.vhd
+UPDATEPROGRESS 1
+MESSAGE "Compile Entity "MIPS_TopLevel"" 
+UPDATEPROGRESS 2
+MESSAGE "Entity `MIPS_TopLevel' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Behavioral" of Entity "MIPS_TopLevel"" 
+UPDATEPROGRESS 5
+UPDATEPROGRESS 6
+UPDATEPROGRESS 8
+UPDATEPROGRESS 9
+UPDATEPROGRESS 10
+UPDATEPROGRESS 12
+UPDATEPROGRESS 14
+UPDATEPROGRESS 15
+UPDATEPROGRESS 16
+UPDATEPROGRESS 19
+UPDATEPROGRESS 23
+UPDATEPROGRESS 27
+UPDATEPROGRESS 29
+UPDATEPROGRESS 30
+UPDATEPROGRESS 34
+UPDATEPROGRESS 36
+UPDATEPROGRESS 40
+UPDATEPROGRESS 41
+UPDATEPROGRESS 42
+UPDATEPROGRESS 43
+UPDATEPROGRESS 44
+UPDATEPROGRESS 45
+UPDATEPROGRESS 46
+UPDATEPROGRESS 47
+UPDATEPROGRESS 48
+UPDATEPROGRESS 49
+UPDATEPROGRESS 50
+UPDATEPROGRESS 51
+UPDATEPROGRESS 52
+UPDATEPROGRESS 53
+UPDATEPROGRESS 54
+UPDATEPROGRESS 55
+UPDATEPROGRESS 56
+UPDATEPROGRESS 57
+UPDATEPROGRESS 60
+UPDATEPROGRESS 61
+UPDATEPROGRESS 62
+UPDATEPROGRESS 64
+UPDATEPROGRESS 66
+UPDATEPROGRESS 68
+UPDATEPROGRESS 69
+UPDATEPROGRESS 70
+UPDATEPROGRESS 73
+UPDATEPROGRESS 74
+UPDATEPROGRESS 75
+UPDATEPROGRESS 80
+UPDATEPROGRESS 83
+UPDATEPROGRESS 85
+UPDATEPROGRESS 86
+UPDATEPROGRESS 88
+UPDATEPROGRESS 89
+UPDATEPROGRESS 91
+UPDATEPROGRESS 95
+UPDATEPROGRESS 96
+UPDATEPROGRESS 99
+UPDATEPROGRESS 100
+ENDPROGRESS d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\MIPS_TopLevel.vhd
+MESSAGE "File: d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\MIPS_TB.vhd" 
+MESSAGE "Compile Entity "MIPS_TB"" 
+MESSAGE "Entity `MIPS_TB' has been skipped - no difference detected." 
+MESSAGE "Compile Architecture "Behavioral" of Entity "MIPS_TB"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  3.0 [s]" 
