@@ -1,193 +1,193 @@
-timestamp=1766002837684
+timestamp=1766036859365
 
 [adder]
-A/behavioral=A/Behavioral 21|./src/Adder.vhd|13|1*0
-B/behavioral=3*0
-H/behavioral=0*370
+A/behavioral=A/Behavioral 21|./src/Adder.vhd|13|1*142482
+B/behavioral=3*56641
+H/behavioral=0*234960
 R=./src/Adder.vhd|5
 V=0*1422
 
 [alu]
-A/behavioral=A/Behavioral 21|./src/ALU.vhd|16|1*1532
-B/behavioral=3*573
-H/behavioral=0*3428
+A/behavioral=A/Behavioral 21|./src/ALU.vhd|16|1*139780
+B/behavioral=3*53023
+H/behavioral=0*233656
 R=./src/ALU.vhd|6
 V=0*5695
 
 [alu_control]
-A/behavioral=A/Behavioral 21|./src/ALU_Control.vhd|12|1*4234
-B/behavioral=3*4191
-H/behavioral=0*8201
+A/behavioral=A/Behavioral 21|./src/ALU_Control.vhd|12|1*144014
+B/behavioral=3*57214
+H/behavioral=0*235276
 R=./src/ALU_Control.vhd|4
 V=0*9756
 
 [comparator]
-A/behavioral=A/Behavioral 21|./src/Comparator.vhd|12|1*6046
-B/behavioral=3*6601
-H/behavioral=0*11651
+A/behavioral=A/Behavioral 21|./src/Comparator.vhd|12|1*154951
+B/behavioral=3*68958
+H/behavioral=0*240066
 R=./src/Comparator.vhd|4
 V=0*12619
 
 [controlunit]
-A/behavioral=A/Behavioral 21|./src/ControlUnit.vhd|26|1*7429
-B/behavioral=3*7078
-H/behavioral=0*14318
+A/behavioral=A/Behavioral 21|./src/ControlUnit.vhd|26|1*145826
+B/behavioral=3*59624
+H/behavioral=0*236078
 R=./src/ControlUnit.vhd|4
 V=0*16213
 
 [datamemory]
-A/behavioral=A/Behavioral 21|./src/DataMemory.vhd|16|1*9670
-B/behavioral=3*10544
-H/behavioral=0*18488
+A/behavioral=A/Behavioral 21|./src/DataMemory.vhd|16|1*151532
+B/behavioral=3*65248
+H/behavioral=0*237839
 R=./src/DataMemory.vhd|5
 V=0*21650
 
 [ex_mem_register]
-A/behavioral=A/Behavioral 21|./src/EX_MEM_Register.vhd|32|1*13089
-B/behavioral=3*14254
-H/behavioral=0*24388
+A/behavioral=A/Behavioral 21|./src/EX_MEM_Register.vhd|32|1*148067
+B/behavioral=3*63090
+H/behavioral=0*236981
 R=./src/EX_MEM_Register.vhd|4
 V=0*27226
 
 [forwardingunit]
-A/behavioral=A/Behavioral 21|./src/ForwardingUnit.vhd|22|1*16554
-B/behavioral=3*16412
-H/behavioral=0*31814
+A/behavioral=A/Behavioral 21|./src/ForwardingUnit.vhd|22|1*191088
+B/behavioral=3*86448
+H/behavioral=0*259192
 R=./src/ForwardingUnit.vhd|4
 V=0*34141
 
 [hazarddetectionunit]
-A/behavioral=A/Behavioral 21|./src/HazardDetectionUnit.vhd|20|1*19115
-B/behavioral=3*18498
-H/behavioral=0*37909
+A/behavioral=A/Behavioral 21|./src/HazardDetectionUnit.vhd|20|1*156334
+B/behavioral=3*69435
+H/behavioral=0*240412
 R=./src/HazardDetectionUnit.vhd|4
 V=0*39574
 
 [id_ex_register]
-A/behavioral=A/Behavioral 21|./src/ID_EX_Register.vhd|52|1*21037
-B/behavioral=3*19732
-H/behavioral=0*43050
+A/behavioral=A/Behavioral 21|./src/ID_EX_Register.vhd|52|1*161374
+B/behavioral=3*72811
+H/behavioral=0*242774
 R=./src/ID_EX_Register.vhd|4
 V=0*48261
 
 [if_id_register]
-A/behavioral=A/Behavioral 21|./src/IF_ID_Register.vhd|21|1*27392
-B/behavioral=3*23522
-H/behavioral=0*58133
+A/behavioral=A/Behavioral 21|./src/IF_ID_Register.vhd|21|1*158256
+B/behavioral=3*70669
+H/behavioral=0*241041
 R=./src/IF_ID_Register.vhd|4
 V=0*61043
 
 [instructionmemory]
-A/behavioral=A/Behavioral 21|./src/InstructionMemory.vhd|12|1*30510
-B/behavioral=3*25664
-H/behavioral=0*63866
+A/behavioral=A/Behavioral 21|./src/InstructionMemory.vhd|12|1*170798
+B/behavioral=3*78315
+H/behavioral=0*244764
 R=./src/InstructionMemory.vhd|5
 V=0*74801
 
 [mem_wb_register]
-A/behavioral=A/Behavioral 21|./src/MEM_WB_Register.vhd|27|1*38549
-B/behavioral=3*27642
-H/behavioral=0*76661
+A/behavioral=A/Behavioral 21|./src/MEM_WB_Register.vhd|27|1*167729
+B/behavioral=3*76601
+H/behavioral=0*244016
 R=./src/MEM_WB_Register.vhd|4
 V=0*79139
 
 [mips_tb]
-A/behavioral=A/Behavioral 21|./src/MIPS_TB.vhd|8|1*138175
-B/behavioral=3*51125
-H/behavioral=0*232350
+A/behavioral=A/Behavioral 21|./src/MIPS_TB.vhd|8|1*234901
+B/behavioral=3*95392
+H/behavioral=0*322346
 R=./src/MIPS_TB.vhd|4
 V=0*84480
 
 [mips_toplevel]
-A/behavioral=A/Behavioral 21|./src/MIPS_TopLevel.vhd|13|1*96923
-B/behavioral=3*44267
-H/behavioral=0*170110
+A/behavioral=A/Behavioral 21|./src/MIPS_TopLevel.vhd|13|1*193649
+B/behavioral=3*88534
+H/behavioral=0*260106
 R=./src/MIPS_TopLevel.vhd|6
 V=0*147578
 
 [mux2x1]
-A/behavioral=A/Behavioral 21|./src/Mux2x1.vhd|13|1*84192
-B/behavioral=3*38112
-H/behavioral=0*148215
+A/behavioral=A/Behavioral 21|./src/Mux2x1.vhd|13|1*189493
+B/behavioral=3*85959
+H/behavioral=0*258860
 R=./src/Mux2x1.vhd|4
 V=0*149304
 
 [mux4x1]
-A/behavioral=A/Behavioral 21|./src/Mux4x1.vhd|15|1*85787
-B/behavioral=3*38601
-H/behavioral=0*151411
+A/behavioral=A/Behavioral 21|./src/Mux4x1.vhd|15|1*178357
+B/behavioral=3*80293
+H/behavioral=0*254367
 R=./src/Mux4x1.vhd|4
 V=0*152976
 
 [pc_register]
-A/behavioral=A/Behavioral 21|./src/PC_Register.vhd|16|1*88073
-B/behavioral=3*39354
-H/behavioral=0*156472
+A/behavioral=A/Behavioral 21|./src/PC_Register.vhd|16|1*187359
+B/behavioral=3*84685
+H/behavioral=0*257583
 R=./src/PC_Register.vhd|6
 V=0*158529
 
 [registerfile]
-A/behavioral=A/Behavioral 21|./src/RegisterFile.vhd|17|1*90207
-B/behavioral=3*40628
-H/behavioral=0*160508
+A/behavioral=A/Behavioral 21|./src/RegisterFile.vhd|17|1*182047
+B/behavioral=3*81835
+H/behavioral=0*255166
 R=./src/RegisterFile.vhd|5
 V=0*164368
 
 [signextender]
-A/behavioral=A/Behavioral 21|./src/SignExtender.vhd|11|1*95519
-B/behavioral=3*43478
-H/behavioral=0*168018
+A/behavioral=A/Behavioral 21|./src/SignExtender.vhd|11|1*180643
+B/behavioral=3*81046
+H/behavioral=0*254751
 R=./src/SignExtender.vhd|4
 V=0*169040
 
 [~A]
 ./src/ALU.vhd~ALU=0*2967*3371
-./src/ALU.vhd~BehavioralALU=0*4084*4665
+./src/ALU.vhd~BehavioralALU=0*234312*234893
 ./src/ALU_Control.vhd~ALU_Control=0*7817*8128
-./src/ALU_Control.vhd~BehavioralALU_Control=0*8296*8920
+./src/ALU_Control.vhd~BehavioralALU_Control=0*235371*235995
 ./src/Adder.vhd~Adder=0*0*309
-./src/Adder.vhd~BehavioralAdder=0*465*615
-./src/Comparator.vhd~BehavioralComparator=0*11746*11916
+./src/Adder.vhd~BehavioralAdder=0*235055*235205
+./src/Comparator.vhd~BehavioralComparator=0*240161*240331
 ./src/Comparator.vhd~Comparator=0*11307*11580
-./src/ControlUnit.vhd~BehavioralControlUnit=0*14414*15138
+./src/ControlUnit.vhd~BehavioralControlUnit=0*236174*236898
 ./src/ControlUnit.vhd~ControlUnit=0*13775*14245
-./src/DataMemory.vhd~BehavioralDataMemory=0*19668*20634
+./src/DataMemory.vhd~BehavioralDataMemory=0*239019*239985
 ./src/DataMemory.vhd~DataMemory=0*18001*18417
-./src/EX_MEM_Register.vhd~BehavioralEX_MEM_Register=0*24484*25155
+./src/EX_MEM_Register.vhd~BehavioralEX_MEM_Register=0*237077*237748
 ./src/EX_MEM_Register.vhd~EX_MEM_Register=0*23478*24307
-./src/ForwardingUnit.vhd~BehavioralForwardingUnit=0*31909*32639
+./src/ForwardingUnit.vhd~BehavioralForwardingUnit=0*259287*260017
 ./src/ForwardingUnit.vhd~ForwardingUnit=0*31193*31735
-./src/HazardDetectionUnit.vhd~BehavioralHazardDetectionUnit=0*38004*38439
+./src/HazardDetectionUnit.vhd~BehavioralHazardDetectionUnit=0*240507*240942
 ./src/HazardDetectionUnit.vhd~HazardDetectionUnit=0*37355*37820
-./src/ID_EX_Register.vhd~BehavioralID_EX_Register=0*43146*44203
+./src/ID_EX_Register.vhd~BehavioralID_EX_Register=0*242870*243927
 ./src/ID_EX_Register.vhd~ID_EX_Register=0*41504*42971
-./src/IF_ID_Register.vhd~BehavioralIF_ID_Register=0*59204*59777
+./src/IF_ID_Register.vhd~BehavioralIF_ID_Register=0*242112*242685
 ./src/IF_ID_Register.vhd~IF_ID_Register=0*57565*58054
-./src/InstructionMemory.vhd~BehavioralInstructionMemory=0*71741*74051
+./src/InstructionMemory.vhd~BehavioralInstructionMemory=0*252102*254272
 ./src/InstructionMemory.vhd~InstructionMemory=0*63465*63781
-./src/MEM_WB_Register.vhd~BehavioralMEM_WB_Register=0*76757*77318
+./src/MEM_WB_Register.vhd~BehavioralMEM_WB_Register=0*244112*244673
 ./src/MEM_WB_Register.vhd~MEM_WB_Register=0*75881*76580
-./src/MIPS_TB.vhd~BehavioralMIPS_TB=0*233046*233581
+./src/MIPS_TB.vhd~BehavioralMIPS_TB=0*323042*323577
 ./src/MIPS_TB.vhd~MIPS_TB=0*82733*82875
-./src/MIPS_TopLevel.vhd~BehavioralMIPS_TopLevel=0*218704*232263
+./src/MIPS_TopLevel.vhd~BehavioralMIPS_TopLevel=0*308700*322259
 ./src/MIPS_TopLevel.vhd~MIPS_TopLevel=0*84558*84841
-./src/Mux2x1.vhd~BehavioralMux2x1=0*148310*148474
+./src/Mux2x1.vhd~BehavioralMux2x1=0*258955*259119
 ./src/Mux2x1.vhd~Mux2x1=0*147851*148152
-./src/Mux4x1.vhd~BehavioralMux4x1=0*151506*151722
+./src/Mux4x1.vhd~BehavioralMux4x1=0*254462*254678
 ./src/Mux4x1.vhd~Mux4x1=0*150941*151348
-./src/PC_Register.vhd~BehavioralPC_Register=0*157299*157666
+./src/PC_Register.vhd~BehavioralPC_Register=0*258410*258777
 ./src/PC_Register.vhd~PC_Register=0*156001*156399
-./src/RegisterFile.vhd~BehavioralRegisterFile=0*161845*162840
+./src/RegisterFile.vhd~BehavioralRegisterFile=0*256503*257498
 ./src/RegisterFile.vhd~RegisterFile=0*159867*160433
-./src/SignExtender.vhd~BehavioralSignExtender=0*168113*168348
+./src/SignExtender.vhd~BehavioralSignExtender=0*254846*255081
 ./src/SignExtender.vhd~SignExtender=0*167676*167943
-ModifyID=152
+ModifyID=272
 Version=73
 
 [~MFT]
-0=171|0Design6.mgf|233581|63546
-1=23|1Design6.mgf|138175|42574
-3=23|3Design6.mgf|51125|8756
+0=291|0Design6.mgf|323577|154219
+1=63|1Design6.mgf|234901|139780
+3=63|3Design6.mgf|95392|53023
 
 [~U]
 adder=Adder 11|0*686|0*877

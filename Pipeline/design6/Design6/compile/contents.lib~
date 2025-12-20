@@ -1,4 +1,4 @@
-152
+272
 ~E 1 "./src/ForwardingUnit.vhd" 4 forwardingunit
 ~A 1 "./src/ForwardingUnit.vhd" 22 behavioral
 ~E 1 "./src/Comparator.vhd" 4 comparator

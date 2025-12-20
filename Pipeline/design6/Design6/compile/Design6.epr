@@ -1,21 +1,21 @@
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\Adder.vhd" Design6 1 0 0
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\ALU.vhd" Design6 1 0 0
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\ALU_Control.vhd" Design6 1 0 0
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\Comparator.vhd" Design6 1 0 0
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\ControlUnit.vhd" Design6 1 0 51826754
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\DataMemory.vhd" Design6 1 0 1768712815
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\EX_MEM_Register.vhd" Design6 1 0 0
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\ForwardingUnit.vhd" Design6 1 0 0
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\HazardDetectionUnit.vhd" Design6 1 0 0
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\ID_EX_Register.vhd" Design6 1 0 1852270963
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\IF_ID_Register.vhd" Design6 1 0 0
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\InstructionMemory.vhd" Design6 1 0 0
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\MEM_WB_Register.vhd" Design6 1 0 0
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\MIPS_TB.vhd" Design6 2 0 0
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\MIPS_TopLevel.vhd" Design6 2 0 0
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\Mux2x1.vhd" Design6 1 0 0
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\Mux4x1.vhd" Design6 1 0 0
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\PC_Register.vhd" Design6 1 0 0
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\RegisterFile.vhd" Design6 1 0 0
-"d:\Hardware\Active_HDL\My_Designs\design6\Design6\src\SignExtender.vhd" Design6 1 0 0
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\ALU.vhd" Design6 1 0 0
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\Adder.vhd" Design6 1 0 1162435653
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\ALU_Control.vhd" Design6 1 0 1146377052
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\ControlUnit.vhd" Design6 1 0 1814981750
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\EX_MEM_Register.vhd" Design6 1 0 0
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\DataMemory.vhd" Design6 1 0 2037539186
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\Comparator.vhd" Design6 1 0 0
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\HazardDetectionUnit.vhd" Design6 1 0 1814981750
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\IF_ID_Register.vhd" Design6 1 0 0
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\ID_EX_Register.vhd" Design6 1 0 0
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\MEM_WB_Register.vhd" Design6 1 0 0
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\InstructionMemory.vhd" Design6 1 0 0
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\Mux4x1.vhd" Design6 1 0 0
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\SignExtender.vhd" Design6 1 0 0
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\RegisterFile.vhd" Design6 1 0 0
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\PC_Register.vhd" Design6 1 0 0
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\Mux2x1.vhd" Design6 1 0 0
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\ForwardingUnit.vhd" Design6 1 0 0
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\MIPS_TopLevel.vhd" Design6 1 0 0
+"D:\Omar-Files\University Courses\3\First-term\1- Computer Organization\7- Project\CSE321-Computer-Organization-Project\Pipeline\design6\Design6\src\MIPS_TB.vhd" Design6 1 0 0
 . . 0 0 0
